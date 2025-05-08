@@ -1,3 +1,4 @@
+import Companies from "./components/Companies";
 import FAQ from "./components/FAQ";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
@@ -13,6 +14,7 @@ export default function App() {
     <>
       <Header />
       <Hero />
+      <Companies />
       <Service />
       <Service2 />
       <Testimonial />

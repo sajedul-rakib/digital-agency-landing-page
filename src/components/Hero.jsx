@@ -1,5 +1,4 @@
 import heroImage from "../assets/hero.png";
-import Companies from "./Companies";
 import Content from "./Content";
 import Figma from "./icons/Figma";
 import Github from "./icons/Github";
@@ -48,7 +47,6 @@ const Hero = () => {
           </div>
         </div>
       </section>
-      <Companies />
     </>
   );
 };
